@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="6px" viewBox="0 0 8 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Generator: sketchtool 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+  <desc>Created with sketchtool.</desc>
+  <g id="Payment-flow" transform="translate(-6.2094763,-7.2668327)" style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g id="1.-Promo---Choose-plan-Screen" transform="translate(-311,-378)" style="fill:#000;fill-rule:nonzero">
+      <g id="Plan-1" transform="translate(249,123)">
+        <g id="Benefits" transform="translate(62,250)">
+          <path d="m 13.872904,12.591538 c 0.364855,0.366421 0.364389,0.96001 -2.33e-4,1.326197 L 9.91385,17.896091 c -0.3643888,0.366187 -0.9555291,0.366187 -1.3199179,0 L 6.614755,15.907382 c -0.3643888,-0.366421 -0.3643888,-0.960245 0,-1.326432 0.3646221,-0.366187 0.9552959,-0.366187 1.3196847,0 l 1.3196846,1.326198 3.2990947,-3.31561 c 0.364389,-0.365953 0.955296,-0.365953 1.319685,0 z" id="Combined-Shape"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
